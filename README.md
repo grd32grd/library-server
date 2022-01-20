@@ -1,4 +1,4 @@
-Program written in C that consists of two processes, one server process that regulates access to a library, and one client process that takes in input and allows the user to modify said library.
+Program written in C that consists of two processes, one server process that regulates access to a library, and one client process that takes in input and allows the user to modify said library. Library info is read from an external .txt file
 
 ## Source Files
 server.c
